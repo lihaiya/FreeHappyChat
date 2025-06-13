@@ -1,5 +1,5 @@
 # FreeHappyChat - 乐聊：企业级在线客服系统
-在线客服，在线客服转人工，大模型聊天，大模型IM客服，AI Chat，Chatbot，可与FreeAICC电话呼叫中心整合!
+在线客服，在线客服转人工，大模型聊天，大模型IM客服，AI Chat，Chatbot，可与FreeAICC电话呼叫中心整合!!
 
 ## 产品概述
 FreeHappyChat是一款强大易用的企业级AI助手平台，集成了先进的AI技术，为企业提供智能对话、知识管理、工作流自动化、在线客服转人工解决方案。
